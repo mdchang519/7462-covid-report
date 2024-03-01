@@ -1,12 +1,14 @@
-Minnesota COVID Report
-================
+# Minnesota COVID Report
 
-Report last run: 2023-04-06 22:07:43
+
+Report last run: 2024-03-01 21:27:40
 
 ## Introduction
 
 This is an example report that uses COVID-19 data from the New York
 Times to illustrate the use of automation processes.
+
+I decided to make some changes during the lecture. Can i get a woohoo
 
 First, we load some necessary libraries, define some key variables, then
 read in the data:
